@@ -1,0 +1,202 @@
+[
+  {
+    "step_time": 91.916,
+    "short_term_memory_count": 1,
+    "long_term_memory_length": 0,
+    "communication_history_chars": 0,
+    "prompt_tokens_approx": 13,
+    "step": 1,
+    "agent": "Carlos",
+    "model": "ollama/llama3.2:3b"
+  },
+  {
+    "step_time": 97.878,
+    "short_term_memory_count": 1,
+    "long_term_memory_length": 0,
+    "communication_history_chars": 0,
+    "prompt_tokens_approx": 13,
+    "step": 1,
+    "agent": "Maria",
+    "model": "ollama/llama3.2:3b"
+  },
+  {
+    "step_time": 122.684,
+    "short_term_memory_count": 2,
+    "long_term_memory_length": 0,
+    "communication_history_chars": 0,
+    "prompt_tokens_approx": 324,
+    "step": 2,
+    "agent": "Carlos",
+    "model": "ollama/llama3.2:3b"
+  },
+  {
+    "step_time": 113.215,
+    "short_term_memory_count": 2,
+    "long_term_memory_length": 0,
+    "communication_history_chars": 0,
+    "prompt_tokens_approx": 263,
+    "step": 2,
+    "agent": "Maria",
+    "model": "ollama/llama3.2:3b"
+  },
+  {
+    "step_time": 135.563,
+    "short_term_memory_count": 3,
+    "long_term_memory_length": 0,
+    "communication_history_chars": 0,
+    "prompt_tokens_approx": 542,
+    "step": 3,
+    "agent": "Carlos",
+    "model": "ollama/llama3.2:3b"
+  },
+  {
+    "step_time": 109.118,
+    "short_term_memory_count": 3,
+    "long_term_memory_length": 0,
+    "communication_history_chars": 0,
+    "prompt_tokens_approx": 435,
+    "step": 3,
+    "agent": "Maria",
+    "model": "ollama/llama3.2:3b"
+  },
+  {
+    "step_time": 143.434,
+    "short_term_memory_count": 4,
+    "long_term_memory_length": 0,
+    "communication_history_chars": 0,
+    "prompt_tokens_approx": 760,
+    "step": 4,
+    "agent": "Carlos",
+    "model": "ollama/llama3.2:3b"
+  },
+  {
+    "step_time": 140.878,
+    "short_term_memory_count": 4,
+    "long_term_memory_length": 0,
+    "communication_history_chars": 0,
+    "prompt_tokens_approx": 594,
+    "step": 4,
+    "agent": "Maria",
+    "model": "ollama/llama3.2:3b"
+  },
+  {
+    "step_time": 176.254,
+    "short_term_memory_count": 5,
+    "long_term_memory_length": 0,
+    "communication_history_chars": 0,
+    "prompt_tokens_approx": 988,
+    "step": 5,
+    "agent": "Carlos",
+    "model": "ollama/llama3.2:3b"
+  },
+  {
+    "step_time": 148.662,
+    "short_term_memory_count": 5,
+    "long_term_memory_length": 0,
+    "communication_history_chars": 0,
+    "prompt_tokens_approx": 765,
+    "step": 5,
+    "agent": "Maria",
+    "model": "ollama/llama3.2:3b"
+  },
+  {
+    "step_time": 206.56,
+    "short_term_memory_count": 6,
+    "long_term_memory_length": 0,
+    "communication_history_chars": 0,
+    "prompt_tokens_approx": 1216,
+    "step": 6,
+    "agent": "Carlos",
+    "model": "ollama/llama3.2:3b"
+  },
+  {
+    "step_time": 187.188,
+    "short_term_memory_count": 6,
+    "long_term_memory_length": 0,
+    "communication_history_chars": 0,
+    "prompt_tokens_approx": 928,
+    "step": 6,
+    "agent": "Maria",
+    "model": "ollama/llama3.2:3b"
+  },
+  {
+    "step_time": 219.265,
+    "short_term_memory_count": 7,
+    "long_term_memory_length": 0,
+    "communication_history_chars": 0,
+    "prompt_tokens_approx": 1449,
+    "step": 7,
+    "agent": "Carlos",
+    "model": "ollama/llama3.2:3b"
+  },
+  {
+    "step_time": 219.764,
+    "short_term_memory_count": 7,
+    "long_term_memory_length": 0,
+    "communication_history_chars": 0,
+    "prompt_tokens_approx": 1214,
+    "step": 7,
+    "agent": "Maria",
+    "model": "ollama/llama3.2:3b"
+  },
+  {
+    "step_time": 249.0,
+    "short_term_memory_count": 8,
+    "long_term_memory_length": 0,
+    "communication_history_chars": 0,
+    "prompt_tokens_approx": 1676,
+    "step": 8,
+    "agent": "Carlos",
+    "model": "ollama/llama3.2:3b"
+  },
+  {
+    "step_time": 237.32,
+    "short_term_memory_count": 8,
+    "long_term_memory_length": 0,
+    "communication_history_chars": 0,
+    "prompt_tokens_approx": 1501,
+    "step": 8,
+    "agent": "Maria",
+    "model": "ollama/llama3.2:3b"
+  },
+  {
+    "step_time": 277.106,
+    "short_term_memory_count": 8,
+    "long_term_memory_length": 1435,
+    "communication_history_chars": 0,
+    "prompt_tokens_approx": 1969,
+    "step": 9,
+    "agent": "Carlos",
+    "model": "ollama/llama3.2:3b"
+  },
+  {
+    "step_time": 302.497,
+    "short_term_memory_count": 8,
+    "long_term_memory_length": 2002,
+    "communication_history_chars": 0,
+    "prompt_tokens_approx": 2038,
+    "step": 9,
+    "agent": "Maria",
+    "model": "ollama/llama3.2:3b"
+  },
+  {
+    "step_time": 273.459,
+    "short_term_memory_count": 8,
+    "long_term_memory_length": 4920,
+    "communication_history_chars": 0,
+    "prompt_tokens_approx": 2868,
+    "step": 10,
+    "agent": "Carlos",
+    "model": "ollama/llama3.2:3b"
+  },
+  {
+    "step_time": 339.593,
+    "short_term_memory_count": 8,
+    "long_term_memory_length": 9286,
+    "communication_history_chars": 0,
+    "prompt_tokens_approx": 3974,
+    "step": 10,
+    "agent": "Maria",
+    "model": "ollama/llama3.2:3b"
+  }
+]
