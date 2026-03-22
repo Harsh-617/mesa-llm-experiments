@@ -1,0 +1,326 @@
+[
+  {
+    "tool_call_success": true,
+    "tool_name": "spread_rumor",
+    "step_time": 51.739,
+    "belief_changed": true,
+    "strategy": "ChainOfThought",
+    "step": 1,
+    "agent": "Maria"
+  },
+  {
+    "tool_call_success": true,
+    "tool_name": "spread_rumor",
+    "step_time": 50.907,
+    "belief_changed": true,
+    "strategy": "ChainOfThought",
+    "step": 1,
+    "agent": "Carlos"
+  },
+  {
+    "tool_call_success": true,
+    "tool_name": "spread_rumor",
+    "step_time": 63.684,
+    "belief_changed": true,
+    "strategy": "ChainOfThought",
+    "step": 1,
+    "agent": "Aisha"
+  },
+  {
+    "tool_call_success": true,
+    "tool_name": "spread_rumor",
+    "step_time": 51.144,
+    "belief_changed": true,
+    "strategy": "ChainOfThought",
+    "step": 1,
+    "agent": "Tom"
+  },
+  {
+    "tool_call_success": true,
+    "tool_name": "spread_rumor",
+    "step_time": 65.055,
+    "belief_changed": true,
+    "strategy": "ChainOfThought",
+    "step": 2,
+    "agent": "Maria"
+  },
+  {
+    "tool_call_success": false,
+    "tool_name": "none",
+    "step_time": 60.471,
+    "belief_changed": false,
+    "strategy": "ChainOfThought",
+    "step": 2,
+    "agent": "Carlos"
+  },
+  {
+    "tool_call_success": false,
+    "tool_name": "none",
+    "step_time": 67.774,
+    "belief_changed": false,
+    "strategy": "ChainOfThought",
+    "step": 2,
+    "agent": "Aisha"
+  },
+  {
+    "tool_call_success": false,
+    "tool_name": "none",
+    "step_time": 64.857,
+    "belief_changed": false,
+    "strategy": "ChainOfThought",
+    "step": 2,
+    "agent": "Tom"
+  },
+  {
+    "tool_call_success": true,
+    "tool_name": "spread_rumor",
+    "step_time": 75.216,
+    "belief_changed": true,
+    "strategy": "ChainOfThought",
+    "step": 3,
+    "agent": "Maria"
+  },
+  {
+    "tool_call_success": true,
+    "tool_name": "spread_rumor",
+    "step_time": 71.947,
+    "belief_changed": true,
+    "strategy": "ChainOfThought",
+    "step": 3,
+    "agent": "Carlos"
+  },
+  {
+    "tool_call_success": true,
+    "tool_name": "spread_rumor",
+    "step_time": 74.344,
+    "belief_changed": true,
+    "strategy": "ChainOfThought",
+    "step": 3,
+    "agent": "Aisha"
+  },
+  {
+    "tool_call_success": true,
+    "tool_name": "check_neighbors",
+    "step_time": 75.657,
+    "belief_changed": false,
+    "strategy": "ChainOfThought",
+    "step": 3,
+    "agent": "Tom"
+  },
+  {
+    "tool_call_success": true,
+    "tool_name": "spread_rumor",
+    "step_time": 60.643,
+    "belief_changed": true,
+    "strategy": "ReAct",
+    "step": 1,
+    "agent": "Maria"
+  },
+  {
+    "tool_call_success": true,
+    "tool_name": "spread_rumor",
+    "step_time": 73.74,
+    "belief_changed": true,
+    "strategy": "ReAct",
+    "step": 1,
+    "agent": "Carlos"
+  },
+  {
+    "tool_call_success": true,
+    "tool_name": "spread_rumor",
+    "step_time": 83.328,
+    "belief_changed": true,
+    "strategy": "ReAct",
+    "step": 1,
+    "agent": "Aisha"
+  },
+  {
+    "tool_call_success": true,
+    "tool_name": "update_belief",
+    "step_time": 68.852,
+    "belief_changed": true,
+    "strategy": "ReAct",
+    "step": 1,
+    "agent": "Tom"
+  },
+  {
+    "tool_call_success": true,
+    "tool_name": "check_neighbors",
+    "step_time": 74.903,
+    "belief_changed": false,
+    "strategy": "ReAct",
+    "step": 2,
+    "agent": "Maria"
+  },
+  {
+    "tool_call_success": true,
+    "tool_name": "update_belief",
+    "step_time": 82.122,
+    "belief_changed": true,
+    "strategy": "ReAct",
+    "step": 2,
+    "agent": "Carlos"
+  },
+  {
+    "tool_call_success": true,
+    "tool_name": "spread_rumor",
+    "step_time": 98.097,
+    "belief_changed": true,
+    "strategy": "ReAct",
+    "step": 2,
+    "agent": "Aisha"
+  },
+  {
+    "tool_call_success": true,
+    "tool_name": "check_neighbors",
+    "step_time": 81.265,
+    "belief_changed": false,
+    "strategy": "ReAct",
+    "step": 2,
+    "agent": "Tom"
+  },
+  {
+    "tool_call_success": true,
+    "tool_name": "check_neighbors",
+    "step_time": 80.195,
+    "belief_changed": false,
+    "strategy": "ReAct",
+    "step": 3,
+    "agent": "Maria"
+  },
+  {
+    "tool_call_success": true,
+    "tool_name": "check_neighbors",
+    "step_time": 87.739,
+    "belief_changed": false,
+    "strategy": "ReAct",
+    "step": 3,
+    "agent": "Carlos"
+  },
+  {
+    "tool_call_success": true,
+    "tool_name": "challenge_rumor",
+    "step_time": 112.078,
+    "belief_changed": true,
+    "strategy": "ReAct",
+    "step": 3,
+    "agent": "Aisha"
+  },
+  {
+    "tool_call_success": true,
+    "tool_name": "challenge_rumor",
+    "step_time": 93.224,
+    "belief_changed": false,
+    "strategy": "ReAct",
+    "step": 3,
+    "agent": "Tom"
+  },
+  {
+    "tool_call_success": false,
+    "tool_name": "none",
+    "step_time": 60.073,
+    "belief_changed": false,
+    "strategy": "ReWOO",
+    "step": 1,
+    "agent": "Maria"
+  },
+  {
+    "tool_call_success": true,
+    "tool_name": "spread_rumor",
+    "step_time": 63.123,
+    "belief_changed": true,
+    "strategy": "ReWOO",
+    "step": 1,
+    "agent": "Carlos"
+  },
+  {
+    "tool_call_success": true,
+    "tool_name": "spread_rumor",
+    "step_time": 63.59,
+    "belief_changed": true,
+    "strategy": "ReWOO",
+    "step": 1,
+    "agent": "Aisha"
+  },
+  {
+    "tool_call_success": false,
+    "tool_name": "none",
+    "step_time": 60.5,
+    "belief_changed": false,
+    "strategy": "ReWOO",
+    "step": 1,
+    "agent": "Tom"
+  },
+  {
+    "tool_call_success": true,
+    "tool_name": "challenge_rumor",
+    "step_time": 66.035,
+    "belief_changed": true,
+    "strategy": "ReWOO",
+    "step": 2,
+    "agent": "Maria"
+  },
+  {
+    "tool_call_success": true,
+    "tool_name": "spread_rumor",
+    "step_time": 0.0,
+    "belief_changed": true,
+    "strategy": "ReWOO",
+    "step": 2,
+    "agent": "Carlos"
+  },
+  {
+    "tool_call_success": true,
+    "tool_name": "spread_rumor",
+    "step_time": 0.009,
+    "belief_changed": true,
+    "strategy": "ReWOO",
+    "step": 2,
+    "agent": "Aisha"
+  },
+  {
+    "tool_call_success": true,
+    "tool_name": "spread_rumor",
+    "step_time": 67.245,
+    "belief_changed": true,
+    "strategy": "ReWOO",
+    "step": 2,
+    "agent": "Tom"
+  },
+  {
+    "tool_call_success": true,
+    "tool_name": "challenge_rumor",
+    "step_time": 0.012,
+    "belief_changed": true,
+    "strategy": "ReWOO",
+    "step": 3,
+    "agent": "Maria"
+  },
+  {
+    "tool_call_success": true,
+    "tool_name": "challenge_rumor",
+    "step_time": 74.956,
+    "belief_changed": true,
+    "strategy": "ReWOO",
+    "step": 3,
+    "agent": "Carlos"
+  },
+  {
+    "tool_call_success": true,
+    "tool_name": "spread_rumor",
+    "step_time": 68.762,
+    "belief_changed": true,
+    "strategy": "ReWOO",
+    "step": 3,
+    "agent": "Aisha"
+  },
+  {
+    "tool_call_success": true,
+    "tool_name": "spread_rumor",
+    "step_time": 0.012,
+    "belief_changed": true,
+    "strategy": "ReWOO",
+    "step": 3,
+    "agent": "Tom"
+  }
+]
