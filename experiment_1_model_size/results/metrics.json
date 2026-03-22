@@ -1,0 +1,218 @@
+[
+  {
+    "tool_call_success": false,
+    "tool_name": "none",
+    "step_time": 33.069,
+    "belief_changed": false,
+    "model": "ollama/llama3.2:1b",
+    "step": 1,
+    "agent": "Maria"
+  },
+  {
+    "tool_call_success": false,
+    "tool_name": "none",
+    "step_time": 23.331,
+    "belief_changed": false,
+    "model": "ollama/llama3.2:1b",
+    "step": 1,
+    "agent": "Carlos"
+  },
+  {
+    "tool_call_success": true,
+    "tool_name": "check_neighbors",
+    "step_time": 21.362,
+    "belief_changed": false,
+    "model": "ollama/llama3.2:1b",
+    "step": 1,
+    "agent": "Aisha"
+  },
+  {
+    "tool_call_success": false,
+    "tool_name": "none",
+    "step_time": 19.379,
+    "belief_changed": false,
+    "model": "ollama/llama3.2:1b",
+    "step": 1,
+    "agent": "Tom"
+  },
+  {
+    "tool_call_success": false,
+    "tool_name": "none",
+    "step_time": 24.158,
+    "belief_changed": false,
+    "model": "ollama/llama3.2:1b",
+    "step": 2,
+    "agent": "Maria"
+  },
+  {
+    "tool_call_success": true,
+    "tool_name": "check_neighbors",
+    "step_time": 18.947,
+    "belief_changed": false,
+    "model": "ollama/llama3.2:1b",
+    "step": 2,
+    "agent": "Carlos"
+  },
+  {
+    "tool_call_success": true,
+    "tool_name": "check_neighbors",
+    "step_time": 28.085,
+    "belief_changed": false,
+    "model": "ollama/llama3.2:1b",
+    "step": 2,
+    "agent": "Aisha"
+  },
+  {
+    "tool_call_success": true,
+    "tool_name": "check_neighbors",
+    "step_time": 20.082,
+    "belief_changed": false,
+    "model": "ollama/llama3.2:1b",
+    "step": 2,
+    "agent": "Tom"
+  },
+  {
+    "tool_call_success": true,
+    "tool_name": "update_belief",
+    "step_time": 24.732,
+    "belief_changed": true,
+    "model": "ollama/llama3.2:1b",
+    "step": 3,
+    "agent": "Maria"
+  },
+  {
+    "tool_call_success": false,
+    "tool_name": "none",
+    "step_time": 19.823,
+    "belief_changed": false,
+    "model": "ollama/llama3.2:1b",
+    "step": 3,
+    "agent": "Carlos"
+  },
+  {
+    "tool_call_success": false,
+    "tool_name": "none",
+    "step_time": 26.193,
+    "belief_changed": false,
+    "model": "ollama/llama3.2:1b",
+    "step": 3,
+    "agent": "Aisha"
+  },
+  {
+    "tool_call_success": false,
+    "tool_name": "none",
+    "step_time": 22.988,
+    "belief_changed": false,
+    "model": "ollama/llama3.2:1b",
+    "step": 3,
+    "agent": "Tom"
+  },
+  {
+    "tool_call_success": true,
+    "tool_name": "spread_rumor",
+    "step_time": 67.982,
+    "belief_changed": true,
+    "model": "ollama/llama3.2:3b",
+    "step": 1,
+    "agent": "Maria"
+  },
+  {
+    "tool_call_success": true,
+    "tool_name": "spread_rumor",
+    "step_time": 58.532,
+    "belief_changed": true,
+    "model": "ollama/llama3.2:3b",
+    "step": 1,
+    "agent": "Carlos"
+  },
+  {
+    "tool_call_success": true,
+    "tool_name": "spread_rumor",
+    "step_time": 60.282,
+    "belief_changed": true,
+    "model": "ollama/llama3.2:3b",
+    "step": 1,
+    "agent": "Aisha"
+  },
+  {
+    "tool_call_success": true,
+    "tool_name": "spread_rumor",
+    "step_time": 69.647,
+    "belief_changed": true,
+    "model": "ollama/llama3.2:3b",
+    "step": 1,
+    "agent": "Tom"
+  },
+  {
+    "tool_call_success": true,
+    "tool_name": "update_belief",
+    "step_time": 68.235,
+    "belief_changed": true,
+    "model": "ollama/llama3.2:3b",
+    "step": 2,
+    "agent": "Maria"
+  },
+  {
+    "tool_call_success": true,
+    "tool_name": "spread_rumor",
+    "step_time": 67.812,
+    "belief_changed": true,
+    "model": "ollama/llama3.2:3b",
+    "step": 2,
+    "agent": "Carlos"
+  },
+  {
+    "tool_call_success": true,
+    "tool_name": "challenge_rumor",
+    "step_time": 67.571,
+    "belief_changed": true,
+    "model": "ollama/llama3.2:3b",
+    "step": 2,
+    "agent": "Aisha"
+  },
+  {
+    "tool_call_success": true,
+    "tool_name": "check_neighbors",
+    "step_time": 79.001,
+    "belief_changed": false,
+    "model": "ollama/llama3.2:3b",
+    "step": 2,
+    "agent": "Tom"
+  },
+  {
+    "tool_call_success": true,
+    "tool_name": "check_neighbors",
+    "step_time": 80.093,
+    "belief_changed": false,
+    "model": "ollama/llama3.2:3b",
+    "step": 3,
+    "agent": "Maria"
+  },
+  {
+    "tool_call_success": true,
+    "tool_name": "challenge_rumor",
+    "step_time": 76.606,
+    "belief_changed": true,
+    "model": "ollama/llama3.2:3b",
+    "step": 3,
+    "agent": "Carlos"
+  },
+  {
+    "tool_call_success": true,
+    "tool_name": "update_belief",
+    "step_time": 79.029,
+    "belief_changed": true,
+    "model": "ollama/llama3.2:3b",
+    "step": 3,
+    "agent": "Aisha"
+  },
+  {
+    "tool_call_success": true,
+    "tool_name": "check_neighbors",
+    "step_time": 89.335,
+    "belief_changed": false,
+    "model": "ollama/llama3.2:3b",
+    "step": 3,
+    "agent": "Tom"
+  }
+]
